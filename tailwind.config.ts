@@ -52,6 +52,18 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				aqua: {
+					50: 'hsl(var(--aqua-50))',
+					100: 'hsl(var(--aqua-100))',
+					200: 'hsl(var(--aqua-200))',
+					300: 'hsl(var(--aqua-300))',
+					400: 'hsl(var(--aqua-400))',
+					500: 'hsl(var(--aqua-500))',
+					600: 'hsl(var(--aqua-600))',
+					700: 'hsl(var(--aqua-700))',
+					800: 'hsl(var(--aqua-800))',
+					900: 'hsl(var(--aqua-900))',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -67,6 +79,24 @@ export default {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
+			},
+			backgroundImage: {
+				'gradient-primary': 'var(--gradient-primary)',
+				'gradient-hero': 'var(--gradient-hero)',
+				'gradient-card': 'var(--gradient-card)',
+			},
+			boxShadow: {
+				'soft': 'var(--shadow-soft)',
+				'elegant': 'var(--shadow-elegant)',
+				'glow': 'var(--shadow-glow)',
+			},
+			transitionTimingFunction: {
+				'smooth': 'var(--transition-smooth)',
+				'spring': 'var(--transition-spring)',
+			},
+			fontFamily: {
+				sans: ['Inter', 'system-ui', 'sans-serif'],
+				display: ['Poppins', 'system-ui', 'sans-serif'],
 			},
 			keyframes: {
 				'accordion-down': {
