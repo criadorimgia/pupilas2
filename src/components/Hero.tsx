@@ -34,8 +34,8 @@ const Hero = () => {
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl leading-relaxed">
-            Na Pupilas da Daí, oferecemos cursos profissionalizantes de estética 
-            com foco em excelência técnica e inovação. Prepare-se para uma carreira 
+            Na Pupilas da Daí, oferecemos cursos para profissionais de estética 
+            com foco em técnica e inovação. Prepare-se para uma carreira 
             de sucesso no mercado da beleza.
           </p>
 
@@ -64,7 +64,7 @@ const Hero = () => {
                 <Users className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <div className="font-bold text-2xl text-foreground">500+</div>
+                <div className="font-bold text-2xl text-foreground">50+</div>
                 <div className="text-sm text-muted-foreground">Alunos Formados</div>
               </div>
             </div>
@@ -84,7 +84,7 @@ const Hero = () => {
                 <Star className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <div className="font-bold text-2xl text-foreground">5 Anos</div>
+                <div className="font-bold text-2xl text-foreground">10 Anos</div>
                 <div className="text-sm text-muted-foreground">de Experiência</div>
               </div>
             </div>
