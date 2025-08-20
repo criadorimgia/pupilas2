@@ -35,7 +35,7 @@ const Courses = () => {
       level: "Intermediário",
       highlights: ["3 técnicas diferentes", "Kit profissional", "Modelo real", "Follow-up online"]
     },
-    {
+   /* {
       title: "Harmonização Facial",
       description: "Aprenda técnicas de harmonização facial não invasiva com procedimentos estéticos avançados.",
       duration: "60 horas",
@@ -44,7 +44,7 @@ const Courses = () => {
       price: "R$ 3.800",
       level: "Avançado",
       highlights: ["Anatomia facial", "Técnicas injetáveis", "Biossegurança", "Estágio prático"]
-    },
+    },*/
     {
       title: "Limpeza de Pele Profissional",
       description: "Curso de limpeza de pele profunda com técnicas modernas e protocolos de tratamento.",
