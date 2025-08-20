@@ -53,7 +53,7 @@ const Contact = () => {
                     WhatsApp
                   </label>
                   <Input 
-                    placeholder="(00) 00000-0000"
+                    placeholder="(21) 96433-4113"
                     className="border-border focus:border-primary focus:ring-primary"
                   />
                 </div>
