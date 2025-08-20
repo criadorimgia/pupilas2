@@ -19,7 +19,7 @@ const About = () => {
       title: "Acompanhamento Individual",
       description: "Cada aluno recebe atenção personalizada para garantir o melhor aproveitamento do curso."
     },
-    {
+   {
       icon: <Award className="h-8 w-8" />,
       title: "Certificação Reconhecida",
       description: "Nossos certificados são reconhecidos no mercado e abrem portas para sua carreira."
@@ -129,10 +129,8 @@ const About = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-background text-primary px-8 py-3 rounded-lg font-semibold hover:bg-background/90 transition-colors">
               Falar com Consultora
-            </button>
-            <button className="border-2 border-primary-foreground text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary-foreground hover:text-primary transition-colors">
-              Conhecer Cursos
-            </button>
+           
+              </button>
           </div>
         </div>
       </div>
