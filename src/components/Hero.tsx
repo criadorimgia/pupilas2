@@ -41,13 +41,6 @@ const Hero = () => {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
-            /*<Button 
-              size="lg" 
-              className="bg-gradient-primary hover:shadow-glow transition-all duration-300 group"
-            >
-              Conhecer Cursos
-              <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
-            </Button> */
             <Button 
               variant="outline" 
               size="lg"
