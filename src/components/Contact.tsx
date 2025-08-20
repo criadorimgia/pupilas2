@@ -117,9 +117,20 @@ const Contact = () => {
                   </div>
                   <h3 className="font-semibold text-foreground mb-2">WhatsApp</h3>
                   <p className="text-muted-foreground text-sm mb-3">(11) 99999-9999</p>
-                  <Button size="sm" variant="outline" className="border-primary text-primary hover:bg-primary hover:text-primary-foreground">
-                    Chamar Agora
-                  </Button>
+                 {/* Botão com link para WhatsApp */}
+         <a
+          href="https://wa.me/5511999999999?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20projeto!"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Button
+            size="sm"
+            variant="outline"
+            className="border-primary text-primary hover:bg-primary hover:text-primary-foreground"
+          >
+            Chamar Agora
+          </Button>
+        </a>
                 </CardContent>
               </Card>
 
