@@ -37,10 +37,10 @@ const About = () => {
   ];
 
   const stats = [
-    { number: "500+", label: "Alunos Formados" },
-    { number: "5", label: "Anos de Experiência" },
+    { number: "50+", label: "Alunos Formados" },
+    { number: "10", label: "Anos de Experiência" },
     { number: "98%", label: "Taxa de Empregabilidade" },
-    { number: "15+", label: "Cursos Disponíveis" }
+    { number: "10+", label: "Cursos Disponíveis" }
   ];
 
   return (
@@ -129,8 +129,10 @@ const About = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-background text-primary px-8 py-3 rounded-lg font-semibold hover:bg-background/90 transition-colors">
               Falar com Consultora
-           
-              </button>
+            </button>
+            <button className="border-2 border-primary-foreground text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary-foreground hover:text-primary transition-colors">
+              Conhecer Cursos 
+            </button>
           </div>
         </div>
       </div>
