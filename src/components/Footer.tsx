@@ -105,17 +105,17 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-primary mt-0.5 flex-shrink-0" />
                 <div className="text-background/80">
-                  <p>Rua das Flores, 123</p>
-                  <p>Centro - São Paulo, SP</p>
-                  <p>CEP: 01234-567</p>
+                  <p>Av. Dom Hélder Câmara, 5200</p>
+                  <p>Cachambi, Rio de Janeiro - RJ</p>
+                  <p>CEP: 20771-004</p>
                 </div>
               </div>
               
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-primary flex-shrink-0" />
                 <div className="text-background/80">
+                  <p>(21) 99999-9999</p>
                   <p>(21) 99859-6102</p>
-                  <p>(11) 99999-9999</p>
                 </div>
               </div>
               
