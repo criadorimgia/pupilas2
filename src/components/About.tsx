@@ -37,8 +37,8 @@ const About = () => {
   ];
 
   const stats = [
-    { number: "50+", label: "Alunos Formados" },
-    { number: "10", label: "Anos de Experiência" },
+    { number: "1000+", label: "Alunos Formados" },
+    { number: "17", label: "Anos de Experiência" },
     { number: "98%", label: "Taxa de Empregabilidade" },
     { number: "10+", label: "Cursos Disponíveis" }
   ];

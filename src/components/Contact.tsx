@@ -116,7 +116,7 @@ const Contact = () => {
                     <MessageCircle className="h-6 w-6" />
                   </div>
                   <h3 className="font-semibold text-foreground mb-2">WhatsApp</h3>
-                  <p className="text-muted-foreground text-sm mb-3">(11) 99999-9999</p>
+                  <p className="text-muted-foreground text-sm mb-3">(21) 96433-4113</p>
                  {/* Botão com link para WhatsApp */}
          <a
           href="https://wa.me/5511999999999?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20projeto!"
