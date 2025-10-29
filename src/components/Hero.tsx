@@ -64,7 +64,7 @@ const Hero = () => {
                 <Users className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <div className="font-bold text-2xl text-foreground">50+</div>
+                <div className="font-bold text-2xl text-foreground">1000+</div>
                 <div className="text-sm text-muted-foreground">Alunos Formados</div>
               </div>
             </div>
@@ -84,7 +84,7 @@ const Hero = () => {
                 <Star className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <div className="font-bold text-2xl text-foreground">10 Anos</div>
+                <div className="font-bold text-2xl text-foreground">17 Anos</div>
                 <div className="text-sm text-muted-foreground">de Experiência</div>
               </div>
             </div>

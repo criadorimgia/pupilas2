@@ -119,7 +119,7 @@ const Contact = () => {
                   <p className="text-muted-foreground text-sm mb-3">(21) 96433-4113</p>
                  {/* Botão com link para WhatsApp */}
          <a
-          href="https://wa.me/5511999999999?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20projeto!"
+          href="https://wa.me/5521964334113?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20projeto!"
           target="_blank"
           rel="noopener noreferrer"
         >
