@@ -9,7 +9,7 @@ const Footer = () => {
       { label: "Micropigmentação", href: "#cursos" },
       { label: "Design de Sobrancelhas", href: "#cursos" },
       { label: "Extensão de Cílios", href: "#cursos" },
-      { label: "Harmonização Facial", href: "#cursos" },
+     // { label: "Harmonização Facial", href: "#cursos" },
       { label: "Limpeza de Pele", href: "#cursos" },
       { label: "Massagem Relaxante", href: "#cursos" }
     ],
@@ -114,8 +114,7 @@ const Footer = () => {
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-primary flex-shrink-0" />
                 <div className="text-background/80">
-                  <p>(21) 99999-9999</p>
-                  <p>(21) 99859-6102</p>
+                   <p>(21) 99859-6102</p>
                 </div>
               </div>
               
