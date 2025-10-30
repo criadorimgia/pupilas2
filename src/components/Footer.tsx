@@ -128,7 +128,10 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Newsletter */}
+ {  /*
+    
+        {/* Newsletter *
+ 
         <div className="border-t border-background/20 pt-8 mb-8">
           <div className="max-w-md mx-auto text-center">
             <h4 className="font-bold text-lg mb-4">
@@ -146,7 +149,8 @@ const Footer = () => {
             </div>
           </div>
         </div>
-
+        */
+         }
         {/* Bottom Footer */}
         <div className="border-t border-background/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
