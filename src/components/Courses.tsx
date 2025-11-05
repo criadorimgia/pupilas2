@@ -26,25 +26,25 @@ const Courses = () => {
       highlights: ["Prática intensiva", "Materiais inclusos", "Certificação"]
     },
     {
-      title: "Extensão de Cílios",
-      description: "Curso completo de extensão de cílios com diferentes técnicas: clássica, volume e mega volume.",
-      duration: "25 horas",
-      students: "20 alunos",
+      title: "Eletroterapia",
+      description: "O que usar,  e quando usar",
+      duration: "1 dia de curso ",
+      students: "3 alunos",
       rating: "4.9",
-      price: "R$ 1.200",
+      price: "R$ 400,00",
       level: "Intermediário",
-      highlights: ["3 técnicas diferentes", "Kit profissional", "Modelo real", "Follow-up online"]
+      highlights: ["3 técnicas diferentes", "Kit profissional", "Modelo real"]
     },
-   /* {
-      title: "Harmonização Facial",
-      description: "Aprenda técnicas de harmonização facial não invasiva com procedimentos estéticos avançados.",
-      duration: "60 horas",
-      students: "15 alunos",
+    {
+      title: "Microagulhamento",
+      description: "Facial, hidragloss, corporal e capilar - com dermapen, dermaroller e técnica carimbo.",
+      duration: "1 dia de curso",
+      students: "3 alunos",
       rating: "5.0",
-      price: "R$ 3.800",
+      price: "R$ 550,00",
       level: "Avançado",
-      highlights: ["Anatomia facial", "Técnicas injetáveis", "Biossegurança", "Estágio prático"]
-    },*/
+      highlights: ["Anatomia facial", "Técnicas injetáveis", "Biossegurança"]
+    },
     {
       title: "Limpeza de Pele Profissional",
       description: "Curso de limpeza de pele profunda com técnicas modernas e protocolos de tratamento.",
@@ -156,7 +156,7 @@ const Courses = () => {
                       size="sm" 
                       className="bg-gradient-primary hover:shadow-glow transition-all duration-300 group"
                     >
-                      Saiba Mais
+                      --Saiba Mais
                       <ArrowRight className="ml-1 h-4 w-4 group-hover:translate-x-1 transition-transform" />
                     </Button>
                   </div>
