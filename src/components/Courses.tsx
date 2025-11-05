@@ -16,14 +16,14 @@ const Courses = () => {
       highlights: ["Certificado profissional", "Kit completo incluso", "Prática supervisionada", "Suporte pós-curso"]
     },
     {
-      title: "Design de Sobrancelhas",
-      description: "Domine a arte do design perfeito de sobrancelhas. Técnicas de visagismo, depilação e coloração.",
-      duration: "20 horas",
-      students: "30 alunos",
+      title: "Intradermoterapia",
+      description: "skinbooster, flacidez, gordura, rejuvenescimento.",
+      duration: "1 dia de curso",
+      students: "3 alunos",
       rating: "4.8",
-      price: "R$ 890",
+      price: "R$ 800",
       level: "Iniciante",
-      highlights: ["Teoria do visagismo", "Prática intensiva", "Materiais inclusos", "Certificação"]
+      highlights: ["Prática intensiva", "Materiais inclusos", "Certificação"]
     },
     {
       title: "Extensão de Cílios",
