@@ -58,7 +58,7 @@ const About = () => {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Somos uma escola especializada em qualificação profissional na área da estética, 
+            Somos uma Clínica Escola especializada em qualificação profissional na área da estética, 
             comprometida em formar profissionais de excelência para o mercado da beleza.
           </p>
         </div>

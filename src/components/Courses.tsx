@@ -21,7 +21,7 @@ const Courses = () => {
       duration: "1 dia de curso",
       students: "3 alunos",
       rating: "4.8",
-      price: "R$ 800",
+      price: "R$ 800,00",
       level: "Iniciante",
       highlights: ["Prática intensiva", "Materiais inclusos", "Certificação"]
     },
@@ -33,7 +33,7 @@ const Courses = () => {
       rating: "4.9",
       price: "R$ 400,00",
       level: "Intermediário",
-      highlights: ["3 técnicas diferentes", "Kit profissional", "Modelo real"]
+      highlights: ["3 técnicas diferentes"]
     },
     {
       title: "Microagulhamento",
@@ -43,7 +43,7 @@ const Courses = () => {
       rating: "5.0",
       price: "R$ 550,00",
       level: "Avançado",
-      highlights: ["Anatomia facial", "Técnicas injetáveis", "Biossegurança"]
+      highlights: ["Anatomia e Fisiologia", "Técnicas de Drug", "Derma roller e Derma Pen"]
     },
     {
       title: "Intradermoterapia avançada",
