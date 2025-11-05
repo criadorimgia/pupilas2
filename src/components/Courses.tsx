@@ -152,7 +152,7 @@ const Courses = () => {
                       <span className="text-2xl font-bold text-primary">{course.price}</span>
                       <span className="text-sm text-muted-foreground ml-1">à vista</span>
                     </div>
-                   /* <Button 
+                  { /* <Button 
                       size="sm" 
                       className="bg-gradient-primary hover:shadow-glow transition-all duration-300 group"
                     >
@@ -160,7 +160,7 @@ const Courses = () => {
                       <ArrowRight className="ml-1 h-4 w-4 group-hover:translate-x-1 transition-transform" />
                     </Button>
 
-                    */
+                    */}
                   </div>
                 </div>
               </CardContent>
