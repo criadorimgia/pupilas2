@@ -9,7 +9,7 @@ const Footer = () => {
       { label: "Micropigmentação", href: "#cursos" },
       { label: "Design de Sobrancelhas", href: "#cursos" },
       { label: "Extensão de Cílios", href: "#cursos" },
-     // { label: "Harmonização Facial", href: "#cursos" },
+      { label: "Harmonização Facial", href: "#cursos" },
       { label: "Limpeza de Pele", href: "#cursos" },
       { label: "Massagem Relaxante", href: "#cursos" }
     ],
@@ -35,7 +35,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-3 mb-6">
-              <img src={logoImage} alt="Pupilas da Daí" className="h-10 w-auto brightness-0 invert" />
+              <img src={logo.png} alt="Pupilas da Daí" className="h-10 w-auto brightness-0 invert" />
               <h3 className="font-display font-bold text-xl">
                 Pupilas da Daí
               </h3>
