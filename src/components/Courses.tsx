@@ -6,12 +6,12 @@ import { Clock, Users, Star, ArrowRight } from "lucide-react";
 const Courses = () => {
   const courses = [
     {
-      title: "Micropigmentação Profissional",
-      description: "Curso completo de micropigmentação de sobrancelhas, lábios e olhos. Aprenda as técnicas mais avançadas do mercado.",
-      duration: "40 horas",
-      students: "25 alunos",
+      title: "Intradermopressurizada",
+      description: "Curso completo, corporal, capilar e facial",
+      duration: "1 dia de curso",
+      students: "3 alunos",
       rating: "4.9",
-      price: "R$ 2.500",
+      price: "R$ 600,00",
       level: "Iniciante",
       highlights: ["Certificado profissional", "Kit completo incluso", "Prática supervisionada", "Suporte pós-curso"]
     },
