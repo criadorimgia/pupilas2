@@ -46,22 +46,22 @@ const Courses = () => {
       highlights: ["Anatomia facial", "Técnicas injetáveis", "Biossegurança"]
     },
     {
-      title: "Limpeza de Pele Profissional",
-      description: "Curso de limpeza de pele profunda com técnicas modernas e protocolos de tratamento.",
-      duration: "30 horas",
-      students: "25 alunos",
+      title: "Intradermoterapia avançada",
+      description: "Curso completo de intradermoterapoia.",
+      duration: "1 dia de curso",
+      students: "3 alunos",
       rating: "4.7",
-      price: "R$ 750",
+      price: "R$ 1.200",
       level: "Iniciante",
-      highlights: ["Tipos de pele", "Equipamentos modernos", "Protocolos exclusivos", "Prática real"]
+      highlights: ["Meso botox", "Hidratação labial com cânula", "Harmonização glútea", "Prática real"]
     },
     {
-      title: "Massagem Relaxante",
+      title: "Imersão de Massagem",
       description: "Técnicas de massagem relaxante e terapêutica para bem-estar e alívio do estresse.",
-      duration: "35 horas",
-      students: "20 alunos",
+      duration: "1 dia de curso",
+      students: "3 alunos",
       rating: "4.8",
-      price: "R$ 980",
+      price: "R$ 450,00",
       level: "Iniciante",
       highlights: ["Anatomia básica", "Técnicas orientais", "Óleos essenciais", "Prática supervisionada"]
     }
@@ -175,7 +175,7 @@ const Courses = () => {
             variant="outline"
             className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300"
           >
-            Ver Todos os Cursos
+          Todos os cursos são ministrados para no máximo 3 alunos.
           </Button>
         </div>
       </div>
